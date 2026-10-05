@@ -4,7 +4,7 @@ Robô que **olha para o rosto de uma pessoa pela webcam, descobre a emoção del
 
 Projeto desenvolvido para a **Semana de Tecnologia 2026** do **IFPB**.
 
-> Autores: _[adicione aqui os nomes da equipe]_
+> Autores: Emerson pinho
 
 ---
 
