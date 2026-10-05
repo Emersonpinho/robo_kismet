@@ -1,0 +1,5 @@
+opencv-python
+pyserial
+fer
+pygame
+edge-tts
