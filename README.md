@@ -1,6 +1,8 @@
-#
+## 🎥 Demonstração
 
+[![Robô Kismet em ação](https://img.youtube.com/vi/wecirKYgohA/maxresdefault.jpg)](https://youtu.be/wecirKYgohA)
 
+▶️ Clique na imagem para assistir ao robô reagindo às emoções no YouTube.
 
  🤖 Robô Kismet: detector de emoções
 
