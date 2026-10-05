@@ -1,4 +1,8 @@
-# 🤖 Robô Kismet: detector de emoções
+#
+
+
+
+ 🤖 Robô Kismet: detector de emoções
 
 Robô que **olha para o rosto de uma pessoa pela webcam, descobre a emoção dela e reage**: muda a carinha numa tela colorida, faz um coração bater num display OLED, mexe os bracinhos com servos e ainda fala uma frase em português.
 
